@@ -1,6 +1,10 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/Qn1ZKMVg6xFoS/giphy.gif" alt="AI Robotics Banner" width="100%"/>
+</div>
+
 # Hi there, I'm Niischay 👋
 
-🤖 Robotics | 🧠 AI/ML | 💻 Academic Projects  
+🤖 Robotics | 🧠 AI/ML | 🎮 Game Dev  
 🌟 Building cross-platform experiences—from real robot configurations to foundational AI prototypes  
 
 ---
@@ -11,7 +15,7 @@
 
 #### omx-lerobot-config – Hugging Face LeRobot Integration  
 [Repo Link](https://github.com/Niischay7/omx-lerobot-config)  
-Custom configuration for **🤗 LeRobot**, adapting it to the **Open Manipulator X (OMX)** robot arm:  
+Custom configuration for **LeRobot**, adapting it to the **Open Manipulator X (OMX)** robot arm:  
 - Replaced default **SO-100/SO-101** configs with **OMX** support  
 - Enables training & evaluation of imitation learning / RL policies on affordable hardware  
 - Integrates with **LeRobot datasets, pretrained models, and gymnasium environments**  
@@ -22,13 +26,13 @@ Data collection & manipulation using **Open Arm Manipulator X + Intel RealSense 
 
 ---
 
-### 🧠 Machine Learning & NLP
+### Machine Learning
 
 - **Generative Pretrained Transformer (from scratch)** – 🚧 Work in progress, building a GPT model step by step while learning the internals of transformers  
 
 ---
 
-### 💻 Academic Projects
+### 🎮 Game Dev(OOPS,DBMS)
 
 #### Angry Birds (Java, libGDX) – OOPs Project  
 [Repo Link](https://github.com/Niischay7/AngryBirds)  
@@ -51,13 +55,13 @@ Data collection & manipulation using **Open Arm Manipulator X + Intel RealSense 
 
 ## 🛠️ Tech Stack
 
-| Domain       | Technologies                                    |
+| Domain       | Technologies                                     |
 |--------------|--------------------------------------------------|
-| Languages    | Python, C++14, Java, Kotlin, SQL                |
-| AI / ML      | PyTorch, spaCy, scikit-learn                    |
+| Languages    | Python, C++, Java, Kotlin, SQL                   |
+| AI / ML      | PyTorch, spaCy, scikit-learn,numpy               |
 | Tools        | PostgreSQL, Streamlit, n8n, GitHub Actions       |
 | Mobile / Web | Kotlin Multiplatform, WebAssembly, Kotlin/JS     |
-| Backend      | Spring Boot / Ktor                              |
+| Backend      | Spring Boot / Ktor                               |
 | Robotics     | LeRobot, RealSense DS455, Open Arm Manipulator X |
 
 ---
