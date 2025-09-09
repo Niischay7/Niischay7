@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/Qn1ZKMVg6xFoS/giphy.gif" alt="AI Robotics Banner" width="100%"/>
+  <img src="https://media.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif" alt="AI Robotics Banner" width="100%" />
 </div>
+
 
 # Hi there, I'm Niischay 👋
 
