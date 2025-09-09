@@ -5,7 +5,7 @@
 
 ---
 
-##  Featured Projects
+## 🔥 Featured Projects
 
 ### 🤖 Robotics & AI
 
@@ -28,7 +28,7 @@ Data collection & manipulation using **Open Arm Manipulator X + Intel RealSense 
 
 ---
 
-###  Academic Projects
+### 💻 Academic Projects
 
 #### Angry Birds (Java, libGDX) – OOPs Project  
 [Repo Link](https://github.com/Niischay7/AngryBirds)  
@@ -43,13 +43,13 @@ Data collection & manipulation using **Open Arm Manipulator X + Intel RealSense 
 
 ---
 
-###  Dashboards & Data Tools
+### 📊 Dashboards & Data Tools
 
 - **Skill Program Impact Analyzer** – PostgreSQL-powered Streamlit dashboard with 10k+ simulated data  
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 | Domain       | Technologies                                    |
 |--------------|--------------------------------------------------|
@@ -62,17 +62,17 @@ Data collection & manipulation using **Open Arm Manipulator X + Intel RealSense 
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Niischay7&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niischay7&layout=compact&theme=tokyonight)
 
 ---
 
-##  Connect with Me
+## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niischay-khade-333355289/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nischay23352@iiitd.ac.in)
 
 *Profile views*  
 <img src="https://komarev.com/ghpvc/?username=Niischay7&style=flat-square&color=blue" alt=""/>
