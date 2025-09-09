@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif" alt="AI Robotics Banner" width="100%" />
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" alt="Code Hacking GIF by Pizza Ninjas" width="100%" />
 </div>
+
 
 
 # Hi there, I'm Niischay 👋
