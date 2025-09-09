@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" alt="Code Hacking GIF by Pizza Ninjas" width="100%" />
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" alt="Code Hacking GIF by Pizza Ninjas" width="25%" />
 </div>
 
 
