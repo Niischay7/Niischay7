@@ -1,11 +1,11 @@
 # Hi there, I'm Niischay 👋
 
 🤖 Robotics | 🧠 AI/ML | 💻 Academic Projects  
-🌟 Building cross-platform experiences—from real robot configs to foundational AI and academic prototypes  
+🌟 Building cross-platform experiences—from real robot configurations to foundational AI prototypes  
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
 ### 🤖 Robotics & AI
 
@@ -23,32 +23,33 @@ Data collection & manipulation using **Open Arm Manipulator X + Intel RealSense 
 ---
 
 ### 🧠 Machine Learning & NLP
+
 - **Generative Pretrained Transformer (from scratch)** – 🚧 Work in progress, building a GPT model step by step while learning the internals of transformers  
 
 ---
 
-### 💻 Academic Projects
+###  Academic Projects
 
 #### Angry Birds (Java, libGDX) – OOPs Project  
 [Repo Link](https://github.com/Niischay7/AngryBirds)  
-- Object-oriented programming concepts in action using Java and libGDX  
-- Implemented core mechanics with reusable, modular design  
-- Built on Gradle with cross-platform launcher support  
+- Applied OOP concepts using Java and libGDX  
+- Modular, reusable architecture powered by Gradle  
 
 #### Pocket-Pixel – Game Boy Emulator (Android & Web) – DBMS Project  
 [Repo Link](https://github.com/Niischay7/Pocket-Pixel)  
-- Emulator with **Android (Kotlin Multiplatform + JNI)** and **WebAssembly** frontends  
-- Backend integrated with PostgreSQL for **cloud saves, leaderboards, and analytics**  
-- Demonstrates DBMS concepts + full-stack integration  
+- Emulator featuring **Android (Kotlin Multiplatform + JNI)** and **WebAssembly** frontends  
+- Backend integrated with PostgreSQL for **cloud saves, leaderboards, analytics**  
+- Demonstrates full-stack integration and DBMS principles  
 
 ---
 
-### 📊 Dashboards & Data Tools
-- **Skill Program Impact Analyzer** – PostgreSQL-powered Streamlit dashboard with +10k simulated data  
+###  Dashboards & Data Tools
+
+- **Skill Program Impact Analyzer** – PostgreSQL-powered Streamlit dashboard with 10k+ simulated data  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Domain       | Technologies                                    |
 |--------------|--------------------------------------------------|
@@ -61,14 +62,16 @@ Data collection & manipulation using **Open Arm Manipulator X + Intel RealSense 
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Niischay7&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niischay7&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-link)  
+##  Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niischay-khade-333355289/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 *Profile views*  
