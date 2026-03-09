@@ -6,7 +6,7 @@
 
 # Hi there, I'm Niischay 👋
 
-🤖 Robotics | 🧠 AI/ML | 🎮 Game Dev  
+🤖 Robotics | 🧠 AI/ML |📈 Quantitative Finance| 🎮 Game Dev  
 🌟 Building cross-platform experiences—from real robot configurations to foundational AI prototypes  
 
 ---
