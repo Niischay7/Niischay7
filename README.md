@@ -27,12 +27,34 @@ Custom configuration for **LeRobot**, adapting it to the **Open Manipulator X (O
 Data collection & manipulation using **Open Arm Manipulator X + Intel RealSense DS455**.  
 
 ---
+### 📈 Quantitative Finance
 
-### Machine Learning
+#### **Simulating Financial Shock – Monte Carlo Market Crash Analysis**
 
-- **Generative Pretrained Transformer (from scratch)** – 🚧 Work in progress, building a GPT model step by step while learning the internals of transformers  
+🔗 https://github.com/Niischay7/Simulating-Financial-Shock
 
----
+A quantitative finance project exploring how extreme events impact financial markets using **Monte Carlo simulations**.
+
+The project models asset price dynamics using:
+
+* **Geometric Brownian Motion (Black–Scholes Model)**
+* **Merton Jump Diffusion Model** for sudden market shocks
+
+Key features:
+
+* Simulation of thousands of market price trajectories
+* Modeling of rare events such as **financial crises, terror attacks, and pandemics**
+* Portfolio stress-testing under extreme volatility
+* Visualization of simulated crash scenarios
+
+Technologies used:
+
+* **Python**
+* **NumPy**
+* **Matplotlib**
+
+This project demonstrates how stochastic processes can be used to study **tail risk, market crashes, and portfolio resilience under extreme conditions**.
+
 
 ### 🎮 Game Dev(OOPS,DBMS)
 
