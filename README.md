@@ -91,9 +91,9 @@ This project demonstrates how stochastic processes can be used to study **tail r
 ---
 ## 📊 GitHub Stats
 
-![Niischay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niischay7&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Niischay7&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niischay7&layout=compact&theme=tokyonight&cache_seconds=86400)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Niischay7&layout=compact&theme=tokyonight)
 
 ---
 
