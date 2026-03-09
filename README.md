@@ -89,11 +89,11 @@ This project demonstrates how stochastic processes can be used to study **tail r
 | Robotics     | LeRobot, RealSense DS455, Open Arm Manipulator X |
 
 ---
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Niischay7&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niischay7&layout=compact&theme=tokyonight)
+![Niischay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niischay7&show_icons=true&theme=tokyonight&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niischay7&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
